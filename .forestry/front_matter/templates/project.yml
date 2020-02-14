@@ -37,3 +37,4 @@ fields:
   label: Foreground color
 pages:
 - about/about.md
+- events/events.md
