@@ -3,7 +3,7 @@ date: 2020-02-14
 thumbnail: ''
 title: About
 categories: []
-project_bg_color: "#EDFFFF"
+project_bg_color: "#FFFFFF"
 project_fg_color: ''
 
 ---
