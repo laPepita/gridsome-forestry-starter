@@ -7,7 +7,6 @@ sections:
 - type: document
   path: volunteer
   label: Volunteer
-  match: "**/*"
 - type: directory
   path: about
   label: About
